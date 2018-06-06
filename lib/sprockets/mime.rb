@@ -123,7 +123,7 @@ module Sprockets
             end
           end
         end
-
+        puts graph
         graph
       end
   end
